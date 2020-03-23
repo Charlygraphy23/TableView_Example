@@ -1,0 +1,9 @@
+.menu-bar{
+    -fx-font-family: "Adobe Gothic Std B";
+    -fx-font-weight: bold;
+    -fx-background-color: #ff94c2;
+}
+
+.menu-bar:hover{
+    -fx-background-color:  #f06292;
+}
